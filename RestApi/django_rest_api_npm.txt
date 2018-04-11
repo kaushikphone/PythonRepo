@@ -1,0 +1,24 @@
+ALTER PROCEDURE `WorkSpaceDetails` (IN user_id VARCHAR(13))
+BEGIN
+select ID,WORKSPACE_TITLE from docDD_Workspace_Master_Table 
+where ID in (select WORKSPACE_ID from docDD_User_Workspace_Mapping_Table where USER_ID =user_id);
+END
+'WORKSPACE_ID', 'smallint(6)', 'YES', '', NULL, '';
+pip install django;
+pip install djangorestframework;
+django-admin startproject rest;
+cd rest;
+django-admin startapp restapp;
+cd restapp;
+python manage.py runserver;
+python manage.py makemigrations;
+python manage.py migrate;
+pip install pillow;
+pip install django-filter;
+/**************************OPEN PORT**************************************/
+On the Start menu, click Run, type WF.msc, and then click OK.
+In the Windows Firewall with Advanced Security, in the left pane, right-click Inbound Rules, and then click New Rule in the action pane.
+In the Rule Type dialog box, select Port, and then click Next.
+
+serializers
+https://github.com/encode/django-rest-framework/tree/master
