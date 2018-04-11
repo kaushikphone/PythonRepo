@@ -1,0 +1,6 @@
+cd env/scripts
+activate
+(env) virtual environment has been created
+http://www.mysqltutorial.org/calling-mysql-stored-procedures-python/
+https://stackoverflow.com/questions/6326082/using-if-and-else-stored-procedures-mysql
+https://www.w3resource.com/mysql/mysql-triggers.php
