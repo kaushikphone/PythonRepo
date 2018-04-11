@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/6326082/using-if-and-else-stored-procedures-mysql
+https://stackoverflow.com/questions/6326082/using-if-and-else-stored-procedures-mysql
+https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/#Parent-to-Child-Sharing-Data-via-Input
+https://www.w3resource.com/mysql/mysql-procedure.php
+___________________________________________________________
+1)spWorkSpaceDetails for workspace related queries
+2)call spDocFetchData()
+
+<script src="/js/jquery-3.3.1.js" type="text/javascript"></script>
+<script src="/js/jquery-ui.js"></script>
+jquery-ui
+352672077394963/01
+jio number:-7980751276
+jioCreative@900--Skype password
+
+http://localhost:61964/
+https://www.youtube.com/watch?v=-Ct8z0cdR8s
